@@ -1,6 +1,7 @@
 # MoneyManager-App
 ## About
 
+Money Manager is an android based application use for keeping the records of expenses and savings.
 Money Manager application which will monitor Expense-Saving of
 an user on an everyday basis. This application takes Expenses from
 user and stores it for future references.
